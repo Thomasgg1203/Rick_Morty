@@ -1,6 +1,5 @@
 export default function Characters(props) {
 
-  
     //destruccion de caracteres(dividirlos)
     const { characters, setCharacters } = props;
 
